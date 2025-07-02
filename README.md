@@ -43,4 +43,4 @@
 - 특히 “에러는 이벤트로 처리하고, 상태로 전달한다”는 원칙을 직접 설계 및 구현하며, Clean Architecture에 있어 에러 처리 또한 명확한 책임 분리가 필요한 영역임을 깊이 이해하게 되었다.
 
 ### 블로그 정리
-- [통합 에러 처리 구조 설계를 통한 스트림 안정성과 가독성 향상](https://soo-hyn.tistory.com/153)
+- [Clean Architecture - Error 설계에 대한 고찰](https://soo-hyn.tistory.com/153)
